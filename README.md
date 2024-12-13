@@ -1,2 +1,3 @@
-"# mirea" 
-"# Проект_на_Python" 
+project_on_python
+not cool
+not bad
